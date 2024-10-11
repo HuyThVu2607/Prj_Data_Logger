@@ -169,23 +169,6 @@ GenerateClassCluster=0
 DocumentUniqueId=GHNCOOXH
 
 [Document8]
-DocumentPath=..\..\..\Hw_Esp\Ver1\Hw_Lib1.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RTLXKYZQ
-
-[Document9]
 DocumentPath=Hw_Prj_Sch.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZQXOREUC
 
-[Document10]
+[Document9]
 DocumentPath=Hw_Prj_PCB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,24 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VLUBMSLP
 
-[Document11]
-DocumentPath=..\..\..\Hw_Esp\Ver1\PcbLib1.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=IYPHETAB
-
-[Document12]
+[Document10]
 DocumentPath=0_10V_Conv.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NQLOABEO
 
-[Document13]
+[Document11]
 DocumentPath=10N-10P_Conv.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BDRWEPOO
 
-[Document14]
+[Document12]
 DocumentPath=MCU_STM32F4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MTHVYCXQ
 
-[Document15]
+[Document13]
 DocumentPath=WiFI_ESP.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KEKLREYN
 
-[Document16]
+[Document14]
 DocumentPath=micro_SD and GPS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UUOBYGVH
 
-[Document17]
+[Document15]
 DocumentPath=LoRa.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AIOFRECW
 
-[Document18]
+[Document16]
 DocumentPath=CONNECTIVE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KCDCLWHS
 
-[Document19]
+[Document17]
 DocumentPath=DOC_REVISION_HISTORY.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
