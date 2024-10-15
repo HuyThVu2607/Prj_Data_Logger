@@ -135,7 +135,7 @@ GenerateClassCluster=0
 DocumentUniqueId=DMTKMXRC
 
 [Document6]
-DocumentPath=Power_Measurement.SchDoc
+DocumentPath=POWER_MEASUREMENT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -220,7 +220,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NQLOABEO
 
 [Document11]
-DocumentPath=10N-10P_Conv.SchDoc
+DocumentPath=SPECIAL_INPUT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
